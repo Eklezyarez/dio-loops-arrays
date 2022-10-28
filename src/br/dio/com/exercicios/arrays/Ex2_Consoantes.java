@@ -1,6 +1,5 @@
 package br.dio.com.exercicios.arrays;
 import java.util.Scanner;
-
 /*
 Faça um Programa que leia um vetor de 6 caracteres,
 e diga quantas consoantes foram lidas.
