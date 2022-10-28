@@ -1,5 +1,4 @@
 package br.dio.com.exercicios.arrays;
-
 import java.util.Scanner;
 
 /*
